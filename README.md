@@ -1,1 +1,1 @@
-# Chocolate-chip-cookies
+Chocolate chip cookie recipe
